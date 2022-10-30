@@ -1,0 +1,7 @@
+This program gives the user three opportunities to answer a series of elementary math questions. These questions are generated at random. It also inquires whether the user wishes to continue playing; if the user declines, the program thanks the user and displays the report. The report is generated primarily by storing user data in a two-dimensional vector; finally, the program reads user data from the two-dimensional vector and outputs the questions, answers, and the number of attempts required to solve those questions. If the user cannot correctly answer the question after three attempts, the program labels the user's responses as "Incorrect."
+
+In addition, this math game is designed specifically for children; if the random number on the left is greater than the random number on the right, logic has been programmed to flip them, and the result is always positive. This program also includes a statement to avoid fractions, as its intended user is young children.
+
+Regarding the user's response, whether the user wants to continue this game, the user may respond in any case; this will not cause any problems for the program since user responses are converted to uppercase to eliminate case sensitivity issues.
+
+This program has been programmed to accommodate non-integer inputs where necessary. Thus, any non-integer input will not cause the program to crash; after any non-integer input  in place of an expected integer input, the program alerts the user that the input is invalid and provides an opportunity to enter an integer.
