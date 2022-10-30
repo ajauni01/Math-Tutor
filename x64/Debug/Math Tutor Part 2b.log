@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Desired Country\Wayne State College\Fall 2022 Semester\Programming Fundamentals\Math Tutor Part 2b\Source.cpp(65,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Desired Country\Wayne State College\Fall 2022 Semester\Programming Fundamentals\Math Tutor Part 2b\Source.cpp(266,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Math Tutor Part 2b.vcxproj -> E:\Desired Country\Wayne State College\Fall 2022 Semester\Programming Fundamentals\Math Tutor Part 2b\x64\Debug\Math Tutor Part 2b.exe
